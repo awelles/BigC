@@ -1,0 +1,43 @@
+.function
+{
+	border-style:solid;
+	border-width:1px;
+	margin:10px;
+	padding:10px;
+}
+.function-name
+{
+	color:blue;
+}
+#links
+{
+
+}
+
+#main
+{
+
+}
+.collapsibleContainer
+{
+    border: solid 1px #9BB5C1;
+
+}
+
+.collapsibleContainerTitle
+{
+    cursor:pointer;
+}
+
+.collapsibleContainerTitle div
+{
+    padding-top:5px;
+    padding-left:10px;
+    background-color:#9BB5C1;
+    color:#607882;
+}
+
+.collapsibleContainerContent
+{
+    padding: 10px;
+}
