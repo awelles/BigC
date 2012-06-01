@@ -201,6 +201,7 @@ class BigCommerce_Api_Connection
 		$body = ($this->useXml) ? $this->getBody() : json_decode($this->getBody());
 
 		$status = $this->getStatus();
+		echo 'status:'.$status;
 
 		if ($status >= 400 && $status <= 499) {
 			if ($this->failOnError) {

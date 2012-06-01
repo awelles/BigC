@@ -8,5 +8,6 @@ Demos:
 <a href="demo_getResource.php">getResource</a> |
 <a href="demo_getCount.php">getCount</a> |
 <a href="demo_getProductsFunctions.php">getProducts stuff</a> |
-<a href="demo_Customers.php">Customers</a> ##
+<a href="demo_Customers.php">Customers</a> |
+<a href="test_A.php">test_A</a>
 </div>
