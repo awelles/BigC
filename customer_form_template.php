@@ -1,5 +1,5 @@
 <?php
-	$defaultVars = array(
+$defaultVars = array(
 "id"  => "",
 "company" => "",
 "first_name"  => "",
@@ -42,3 +42,14 @@ pre_print_r($_SERVER['PHP_SELF']);
 <?php echo $submit; ?>
 
 </div>
+
+Update your  General Settings > Organization Settings page
+Page Settings: Page settings are a very important aspect of Event Espresso
+I recommend using the “Exclude Pages from Navigation” by Simon Wheatley to hiding page from navigation.
+
+
+Registration Forms
+Event Espresso > Questions in your WordPress admin area to start adding/editing questions.
+
+Adding Events
+
